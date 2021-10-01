@@ -1,4 +1,4 @@
-# know_solar
+<h1 align="center">Know Solar</h1>
 
 A new Flutter project.
 
