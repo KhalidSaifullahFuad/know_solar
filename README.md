@@ -1,5 +1,5 @@
 <h1 align="center">Know Solar</h1>
-
+<img src="https://github.com/KhalidSaifullahFuad/know_solar/blob/master/Know%20Solar%20Banner.png">
 A new Flutter project.
 
 ## Getting Started
