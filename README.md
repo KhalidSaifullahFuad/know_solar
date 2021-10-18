@@ -11,7 +11,17 @@ Unfortunately, though solar energy itself is free, the high cost of its collecti
 ![Know_Solar_Banner](https://user-images.githubusercontent.com/64584169/135621135-2d9a3646-4592-47c1-ba90-30b6cb49e948.jpg)
 
 
-<p>Know Solar is an application that explains the working method of solar panels, how we can collect and preserve electricity from solar power and reuse it properly and efficiently. We also want to promote the importance of solar power and its proper usage to general people by creating a community. We will motivate and consult them to use solar energy. To help this process we will contact with renowned solar panel companies, so that they can provide better service to the user. You can calculate the production, usage and reservation of solar power. Using NASA's solar and meteorological analysis data, such as geographical location, wind speed we can monitor the possible solar power production.</p>
+<p align="justify">Know Solar offer an interactive user friendly Mobile application which explains the working method of solar panels, how we can collect and preserve electricity from solar power and reuse it properly and efficiently. We also want to promote the importance of solar power and its proper usage to general people by creating a community. We will motivate and consult them to use solar energy. To help this process we will contact with renowned solar panel companies, So that they can provide better service with solar panel usage and its financial benefits.</p>
+
+![Mockup 1](https://user-images.githubusercontent.com/64584169/137779738-ff384179-8753-401a-b587-9a9a9f0f42e1.png)
+
+<p align="justify">We can calculate the production, usage and reservation of solar power. With the help of NASA's solar and meteorological analysis data, such as geographical location, wind speed, humidity, rain, sunlight and hour forecast, we can monitor the possible solar power production.</p>
+
+![Mockup 2](https://user-images.githubusercontent.com/64584169/137780410-90aa133e-4f51-461b-81e2-4c6259882670.png)
+
+<p align="justify">In the future, we will integrate artificial intelligence-enabled hardware that can accurately estimate the power consumption of every single electronic device in your house. It will also estimate how much battery and solar panels you will need for a certain amount of the electronic device. We will also add an assistant for the app which will notify you if something wrong with your solar panel.</p>
+
+![Mockup 3](https://user-images.githubusercontent.com/64584169/137780243-c1aaa3c6-23c2-4cf3-a200-f3074aa8cdf2.png)
 
 
 <h1 align="center">Know Solar</h1>
